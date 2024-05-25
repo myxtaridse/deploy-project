@@ -11,5 +11,9 @@
   "devDependencies": {
     "json-server": "^0.17.1",
     "json-server-auth": "^2.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
   }
 }
